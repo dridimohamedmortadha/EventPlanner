@@ -1,0 +1,13 @@
+# Database
+*.db
+*.sqlite
+backend/events.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
